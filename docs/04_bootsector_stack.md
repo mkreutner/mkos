@@ -1,6 +1,6 @@
-*Concepts you may want to Google beforehand: stack*
+# Bootsector memory
 
-**Goal: Learn how to use the stack**
+__The goal of this section is to learn how to use the stack__
 
 The usage of the stack is important, so we'll write yet another boot sector
 with an example.
